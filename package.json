@@ -1,6 +1,6 @@
 {
   "name": "conditional-image-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A conditional image loader directive which loads a image when the condition for that image url becomes truthy",
   "main": "index.js",
   "scripts": {
