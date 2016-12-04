@@ -1,0 +1,26 @@
+{
+  "name": "conditional-image-loader",
+  "version": "1.0.0",
+  "description": "A conditional image loader directive which loads a image when the condition for that image url becomes truthy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashanth-Nelli/conditional-image-loader.git"
+  },
+  "keywords": [
+    "conditional",
+    "image",
+    "loader",
+    "image",
+    "loader"
+  ],
+  "author": "Nelli.Prashanth Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prashanth-Nelli/conditional-image-loader/issues"
+  },
+  "homepage": "https://github.com/Prashanth-Nelli/conditional-image-loader#readme"
+}
